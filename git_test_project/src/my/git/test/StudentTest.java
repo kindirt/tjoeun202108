@@ -3,9 +3,11 @@ package my.git.test;
 public class StudentTest {
 
 	public static void main(String[] args) {
-		Student st = new Student("ÇÏÇÏ",40);
+		Student st = new Student("Ã‡ÃÃ‡Ã",40);
 	    System.out.println(st);
 
+		Student st1 = enw Stduent("í•˜í•˜í•˜",45);
+		System.out.println(st1);
 	}
 
 }
